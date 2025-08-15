@@ -34,7 +34,7 @@ This project demonstrates DOM manipulation, event handling, and basic game logic
 
 ## 📷 Screenshots  
 
-*(Add screenshots here to showcase your UI — drag image files into this README or link them)*  
+
 
 Example:  
 ![Game Screenshot](rock.PNG)
@@ -42,4 +42,5 @@ Example:
 ---
 
 ## 📂 Project Structure  
+
 
